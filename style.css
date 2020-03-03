@@ -1,0 +1,77 @@
+body{
+  margin-top: 20px;
+  text-align: center;
+  background-color: lightblue;
+  padding:0;
+}
+
+.jumbotron {
+    padding: 0;
+    margin-bottom: 0;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+  }
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+}
+.container{
+  text-align: center;
+  margin: 0;
+  margin-top: 0;
+  padding: 0 !important;
+
+}
+.j1{
+  height:240px;
+  background-image: url("https://media3.picsearch.com/is?29k4z0lTW5Khwe0d1mlr13y5k2avjk5h7JuMeYfVc3Y&height=155");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  background-size: contain;
+}
+.j2{
+height:80px;
+margin-bottom: 0 !important;
+padding: 0 !important;
+}
+
+.lottopicks{
+  font-size: 6rem;
+  text-align: center;
+  color:red;
+  margin:0;
+  padding: 0;
+  width:175px;
+
+}
+.lottopicks1{
+  font-size: 6rem;
+  text-align: center;
+  color:red;
+  margin:0;
+  width:175px;
+}
+.pdetails{
+  color:blue;
+  text-align: left;
+  font-size:16px;
+}
+ .lead{
+  font-size: 5rem;
+  color:red;
+}
+.card-footer{
+  width:175px;
+  margin-top: 10px;
+}
+.navbar{
+  margin-top: 0;
+}
+#interdiction{
+  margin-bottom: 0 !important;
+}
+h1, h2{
+  margin-bottom: 0 !important;
+}
